@@ -4,7 +4,7 @@ import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
-    <div className="">
+    <div className="scroll">
       <Header></Header>
       <Shop></Shop>
     </div>

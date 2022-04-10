@@ -9,5 +9,7 @@
 8>useCreateUserWithEmailAndPassword fromm react firebase hooks
 9.if user is created navigate to shop page
 10.use useSignInWithEmailAndPassword for sign in
+11.create require auth component ==> check user exist or not and also track user location
+12.in routre wrap protected route with require auth component
 
 */
